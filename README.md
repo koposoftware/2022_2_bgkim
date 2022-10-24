@@ -40,7 +40,7 @@
 
 본인 소개를 추가하세요
 
-|이름 |김 병 관|![profile](/assets/profile.jpeg)|
+|이름 |김 병 관|![profile](/assets/profile.jpg)|
 |연락처 | 202260341002(@)office.kopo.ac.kr| |
 |Language & Tools| Language - java, javaScript, python, R, HTML/CSS| |
 | | Framework - React, Spring boot| |
