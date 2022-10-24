@@ -30,11 +30,12 @@
 
 
 ## 발표 ppt 
+[하나원큐웨딩 발표PDF](https://github.com/koposoftware/2022_2_bgkim/files/9853924/final_ppt.pdf)
 
 
 
 ## 시연 동영상
-[![하나원큐웨딩](/assets/하나원큐웨딩썸네일.png)](https://youtu.be/cmJViuk3K8k)
+[하나원큐웨딩 시연동영상 유튜브 링크](https://youtu.be/cmJViuk3K8k)
 
 
 # 4. 프로젝트 요약
