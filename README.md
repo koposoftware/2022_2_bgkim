@@ -40,13 +40,21 @@
 
 본인 소개를 추가하세요
 
-|이름 |김 병 관| 사진 |
+|이름 |김 병 관|![profile](/assets/profile.jpeg)|
 |연락처 | 202260341002(@)office.kopo.ac.kr| |
-|skill set| Frontend - HTML, CSS, Javascript, React, Next.js, TailwindCSS| |
-| | Backend - Java, Spring boot, Oracle, Node.js, cloud| |
-|자격증| SQLD(2022년) | |
-|수상| 2022년 제6회 벤처창업아이템경진대회-입선<br>(고용노동부 후원)  | |
-| | 2022년 교내 프로젝트작품 경진대회-금상| |
-|경력사항|  광주은행 인턴(2021.01 - 2021.02) | |
-|특기사항|  FIFAONLINE 수준급 실력 | |
+|Language & Tools| Language - java, javaScript, python, R, HTML/CSS| |
+| | Framework - React, Spring boot| |
+| | Tool - STS, SQL Developer| |
+|Database| Oracle| |
+|Etc| Git| |
+|자격증| 정보처리기사(2021년 06월 16일) | |
+| | SQLD(2021년 06월 25일) | |
+| | ADsP(2021년 04월 09일) | |
+| | 생활체육보디빌딩지도자 2급(2021년 08월 06일) | |
+| | 수상인명구조요원(2018년 11월 18일) | |
+|수상| 2022년 제6회 벤처창업아이템경진대회-동상 확정<br>(고용노동부 후원)  | |
+| | 2022년 광명융합기술교육원 최종 프로젝트 경진대회-동상| |
+|경력사항|  아주대학교 경영정보시스템 조교(2020.09 - 2020.12) | |
+| |  아주대학교 ICT 전략 및 기획 조교(2020.09 - 2020.12) | |
+| |  수상도시개발 인명구조요원(2019.03 - 2022.08) | |
 
