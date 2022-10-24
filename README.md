@@ -1,6 +1,6 @@
 # 한큐에 끝나는, 원큐웨딩
 
-[프로젝트 홈페이지 - https://koposoftware.github.io/2022_02_bgkim/](https://koposoftware.github.io/2022_02_bgkim/)
+[프로젝트 홈페이지 - https://koposoftware.github.io/2022_2_bgkim/](https://koposoftware.github.io/2022_2_bgkim/)
 
 # 1. 프로젝트 개요
 
