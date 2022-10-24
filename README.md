@@ -34,7 +34,7 @@
 
 
 ## 시연 동영상
-[![하나원큐웨딩](https://youtu.be/cmJViuk3K8k)](/assets/하나원큐웨딩썸네일.PNG)
+[![하나원큐웨딩](/assets/하나원큐웨딩썸네일.PNG)](https://youtu.be/cmJViuk3K8k)
 
 
 # 4. 프로젝트 요약
