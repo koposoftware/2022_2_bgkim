@@ -40,7 +40,7 @@
 
 본인 소개를 추가하세요
 
-|이름 |김 병 관||
+|이름 |김 병 관| 사진 |
 |연락처 | 202260341002(@)office.kopo.ac.kr| |
 |skill set| Frontend - HTML, CSS, Javascript, React, Next.js, TailwindCSS| |
 | | Backend - Java, Spring boot, Oracle, Node.js, cloud| |
